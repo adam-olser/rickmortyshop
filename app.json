@@ -1,4 +1,5 @@
 {
+  "name": "rickmortyshop",
   "expo": {
     "name": "rickmortyshop",
     "slug": "rickmortyshop",
@@ -13,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
